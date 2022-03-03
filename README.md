@@ -1,5 +1,5 @@
 # CS246_Notes
-CS246 course notes from the university of waterloo
+CS246 course notes from the university of waterloo, taken at Winter 2022, written by Kristine.
 
 ## Topics
 

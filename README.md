@@ -15,4 +15,7 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [4. Object Oriented Programming](https://github.com/kila097/CS246_Notes/blob/main/4.%20Object%20Oriented%20Programing.md)
 
 
+[5. Encapsulation and Iterator Pattern](https://github.com/kila097/CS246_Notes/blob/main/5.%20Encapsulation%20and%20Introduction%20to%20Design%20Patterns.md)
+
+
 To be continued,

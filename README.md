@@ -24,4 +24,7 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [7. Standard Template Library](https://github.com/kila097/CS246_Notes/blob/main/7.%20The%20Standard%20Template%20Library.md)
 
 
+[8. Handling with Exceptions](https://github.com/kila097/CS246_Notes/blob/main/8.%20Error%20Handling%20with%20Exceptions.md)
+
+
 To be continued,

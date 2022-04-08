@@ -21,4 +21,7 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [6. Relationship and Inheritance](https://github.com/kila097/CS246_Notes/blob/main/6.%20Relationships%20and%20Inheritance.md)
 
 
+[7. Standard Template Library](https://github.com/kila097/CS246_Notes/blob/main/7.%20The%20Standard%20Template%20Library.md)
+
+
 To be continued,

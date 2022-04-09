@@ -27,7 +27,7 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [8. Handling with Exceptions](https://github.com/kila097/CS246_Notes/blob/main/8.%20Error%20Handling%20with%20Exceptions.md)
 
 
-[9. Advanced Design Patterns]
+[9. Advanced Design Patterns](https://github.com/kila097/CS246_Notes/blob/main/9.%20Design%20Patterns.md)
 
 
 [10. Advanced C++](https://github.com/kila097/CS246_Notes/blob/main/10.%20Advanced%20C%2B%2B.md)

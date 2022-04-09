@@ -36,4 +36,4 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [11. VTable and Multiple Inheritance](https://github.com/kila097/CS246_Notes/blob/main/11.%20Vtables%20and%20Multiple%20Inheritance.md)
 
 
-The End.
+TBC,

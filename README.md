@@ -33,4 +33,7 @@ CS246 course notes from the University of Waterloo, taken at Winter 2022, writte
 [10. Advanced C++](https://github.com/kila097/CS246_Notes/blob/main/10.%20Advanced%20C%2B%2B.md)
 
 
-To be continued,
+[11. VTable and Multiple Inheritance](https://github.com/kila097/CS246_Notes/blob/main/11.%20Vtables%20and%20Multiple%20Inheritance.md)
+
+
+The End.

@@ -1,5 +1,5 @@
 # CS246_Notes
-CS246 course notes from the University of Waterloo, taken at Winter 2022, written by Kristine :D
+CS246 course notes from the University of Waterloo, taken at Winter 2022, taught by Rob Hackman.
 
 ## Topics
 
